@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className={styles.navbar}>
       {/* Logo aligned to the left */}
       <Link href="/">
-        <Image src="/logo.jpg" alt="Logo" width={100} height={100} />
+        <Image src="/rlm_logo.jpg" alt="Logo" width={100} height={100} />
       </Link>
 
       {/* Links aligned to the right */}
